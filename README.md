@@ -1,3 +1,1 @@
 PYTHON/FLASK
-
-Supporter : Gemini, ChatGPT,...
